@@ -1,0 +1,19 @@
+# 🎯 Number Guessing Game
+
+## 📋 Project Description
+The **Number Guessing Game** is a fun and interactive console-based game where the player guesses a random number between 1 and 100. The game tracks the number of attempts, calculates a score, and keeps track of the best score. Fewer attempts result in a higher score.
+
+This project is implemented in **Python** and can be run from the terminal. It’s a great way to practice control flow, input handling, and loops in Python.
+
+---
+
+## 🛠️ Features
+- Generates a **random number** between 1 and 100.
+- Tracks **number of attempts**.
+- Displays **Out of Bounds** error if a guess is outside the 1–100 range.
+- **Scoring system**: The fewer the attempts, the higher the score (Score = `100 - attempts`).
+- **Best score tracking** across multiple rounds (within the same execution).
+
+---
+
+
